@@ -1,0 +1,47 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-cmark",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swiftlang/swift-cmark.git",
+          "name" : "cmark-gfm"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "08ddb528923cc1a6527e02b7a1aee9e516ca749a",
+            "version" : "0.9.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-cmark"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-markdown",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swiftlang/swift-markdown.git",
+          "name" : "swift-markdown"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "25cb61d3482054b09ae76ca4f281b1bfe7fe5a43",
+            "version" : "0.9.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-markdown"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

@@ -1,0 +1,65 @@
+{
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockDirective.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockDirective.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockDirective.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockDirective.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockDirective.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockDirective.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockQuote.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockQuote.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockQuote.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockQuote.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockQuote.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/BlockQuote.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/CustomBlock.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/CustomBlock.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/CustomBlock.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/CustomBlock.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/CustomBlock.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/CustomBlock.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenAbstract.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenAbstract.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenAbstract.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenAbstract.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenAbstract.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenAbstract.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenDiscussion.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenDiscussion.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenDiscussion.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenDiscussion.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenDiscussion.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenDiscussion.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenNote.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenNote.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenNote.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenNote.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenNote.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenNote.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenParameter.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenParameter.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenParameter.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenParameter.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenParameter.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenParameter.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenReturns.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenReturns.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenReturns.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenReturns.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenReturns.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/DoxygenReturns.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/ListItem.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/ListItem.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/ListItem.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/ListItem.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/ListItem.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/ListItem.swiftdeps"
+  }
+}

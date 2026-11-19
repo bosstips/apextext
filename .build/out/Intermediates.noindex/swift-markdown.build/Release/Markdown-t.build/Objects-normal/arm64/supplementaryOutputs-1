@@ -1,0 +1,12 @@
+{
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Base/ChildIndexPath.swift" : {
+    "abi-baseline-json" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown.abi.json",
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown-primary.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown-primary.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown-primary.dia",
+    "objc-header" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown-Swift.h",
+    "swiftdoc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown.swiftdoc",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown.swiftmodule",
+    "swiftsourceinfo" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Release/Markdown-t.build/Objects-normal/arm64/Markdown.swiftsourceinfo"
+  }
+}

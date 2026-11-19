@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/TypeXTests-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/TypeXTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/TypeXTests-primary-emit-module.dia",
+    "pch" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/TypeXTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/TypeXTests-primary.swiftdeps"
+  },
+  "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/FileBrowserTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/FileBrowserTests~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/InlineEditingTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/InlineEditingTests~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/MarkdownShortcutTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownShortcutTests~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/MarkdownTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/MarkdownTests~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/WebPreviewTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WebPreviewTests~partial.swiftmodule"
+  },
+  "/Users/apple/typeX/Tests/TypeXTests/WindowFileOpenerTests.swift" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.dia",
+    "index-unit-output-path" : "/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.o",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests.swiftdeps",
+    "swiftmodule" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Debug/TypeXTests-p.build/Objects-normal/arm64/WindowFileOpenerTests~partial.swiftmodule"
+  }
+}

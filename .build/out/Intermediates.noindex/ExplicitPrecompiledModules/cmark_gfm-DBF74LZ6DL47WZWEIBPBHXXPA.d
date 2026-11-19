@@ -1,0 +1,34 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.2.sdk/SDKSettings.json \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/cmark-gfm.h \
+  /Users/apple/typeX/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_DarwinFoundation2-5NKKJ3UK8HZSYJIPOSNKOJVFG.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.2.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.2.sdk/usr/include/DarwinFoundation2.modulemap \
+  /Users/apple/typeX/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdint-7OBMSXXH3UZS94KE9S4QP2YJU.pcm \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/export.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/cmark-gfm_version.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/cmark-gfm_config.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/cmark-gfm-extension_api.h \
+  /Users/apple/typeX/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdbool-5C101B2QMJEI5JA2F6N84GH7I.pcm \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/buffer.h \
+  /Users/apple/typeX/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_limits-5RNCZPALQFT6E6E8VR5BD43NS.pcm \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/chunk.h \
+  /Users/apple/typeX/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_DarwinFoundation3-BM8IMXQOMW9B6W6K3F6EWM7H6.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.2.sdk/usr/include/DarwinFoundation3.modulemap \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/cmark_ctype.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/footnotes.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/map.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/houdini.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/html.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/node.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/inlines.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/references.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/iterator.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/parser.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/plugin.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/registry.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/render.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/scanners.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/syntax_extension.h \
+  /Users/apple/typeX/.build/checkouts/swift-cmark/src/include/utf8.h

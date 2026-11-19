@@ -1,0 +1,11 @@
+{
+  "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "abi-baseline-json" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText.abi.json",
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.dia",
+    "swiftdoc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText.swiftdoc",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText.swiftmodule",
+    "swiftsourceinfo" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText.swiftsourceinfo"
+  }
+}

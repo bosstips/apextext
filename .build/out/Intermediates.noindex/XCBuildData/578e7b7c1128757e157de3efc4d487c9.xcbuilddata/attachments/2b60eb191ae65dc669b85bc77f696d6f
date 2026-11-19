@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ApexText-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ApexText-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ApexText-primary-emit-module.dia",
+    "pch" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ApexText-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ApexText-primary.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/App.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/App~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/EditorMode.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/EditorMode~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/FileSidebar.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FileSidebar~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/FontPreferences.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FontPreferences~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/FormattingMenu.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/FormattingMenu~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownPreview.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownPreview~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownRenderer.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownShortcuts.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownTextView.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/MarkdownTextView~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/ReadingPosition.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/ReadingPosition~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/UserGuide.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/UserGuide~partial.swiftmodule"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/WindowFileOpener.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.dia",
+    "index-unit-output-path" : "/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.swiftdeps",
+    "swiftmodule" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Debug/ApexText-p.build/Objects-normal/arm64/WindowFileOpener~partial.swiftmodule"
+  }
+}

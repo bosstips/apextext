@@ -1,0 +1,66 @@
+{
+  "" : {
+    "const-values" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary.swiftconstvalues",
+    "dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary.d",
+    "diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary-emit-module.dia",
+    "pch" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/typeX-primary.swiftdeps"
+  },
+  "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/resource_bundle_accessor.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/App.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/App.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/FileSidebar.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FileSidebar.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FileSidebar.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FileSidebar.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/FontPreferences.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FontPreferences.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FontPreferences.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/FontPreferences.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/MarkdownPreview.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownPreview.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownPreview.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownPreview.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/MarkdownRenderer.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownRenderer.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownRenderer.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownRenderer.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/MarkdownShortcuts.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownShortcuts.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownShortcuts.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownShortcuts.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/MarkdownTextView.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownTextView.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownTextView.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/MarkdownTextView.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/ReadingPosition.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/ReadingPosition.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/ReadingPosition.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/ReadingPosition.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/UserGuide.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/UserGuide.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/UserGuide.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/UserGuide.o"
+  },
+  "/Users/apple/typeX/Sources/typeX/WindowFileOpener.swift" : {
+    "index-unit-output-path" : "/typeX.build/Release/typeX-p.build/Objects-normal/arm64/WindowFileOpener.o",
+    "llvm-bc" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/WindowFileOpener.bc",
+    "object" : "/Users/apple/typeX/.build/out/Intermediates.noindex/typeX.build/Release/typeX-p.build/Objects-normal/arm64/WindowFileOpener.o"
+  }
+}

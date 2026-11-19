@@ -1,0 +1,65 @@
+{
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCell.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCell.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCell.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCell.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCell.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCell.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCellContainer.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCellContainer.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCellContainer.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCellContainer.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCellContainer.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableCellContainer.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableHead.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableHead.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableHead.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableHead.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableHead.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableHead.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableRow.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableRow.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableRow.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableRow.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableRow.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/TableRow.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/Replacement.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Replacement.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Replacement.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Replacement.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Replacement.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Replacement.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/SourceLocation.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/SourceLocation.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/SourceLocation.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/SourceLocation.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/SourceLocation.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/SourceLocation.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Emphasis.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Emphasis.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Emphasis.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Emphasis.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Emphasis.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Emphasis.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Image.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Image.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Image.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Image.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Image.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/Image.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/InlineAttributes.swift" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/InlineAttributes.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/InlineAttributes.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/InlineAttributes.dia",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/InlineAttributes.o",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/swift-markdown.build/Debug/Markdown-t.build/Objects-normal/arm64/InlineAttributes.swiftdeps"
+  }
+}

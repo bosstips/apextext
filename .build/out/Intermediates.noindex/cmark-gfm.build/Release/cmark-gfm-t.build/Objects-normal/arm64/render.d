@@ -1,0 +1,22 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.2.sdk/SDKSettings.json \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/render.c \
+  /Users/apple/ApexText/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdbool-9HK5IP9J2ESLNAFLDMO5E07QF.pcm \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/module.modulemap \
+  /Users/apple/ApexText/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_DarwinFoundation3-A1798R5OBN0ZIDNUMTCJHGR6K.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation2.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation3.modulemap \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/buffer.h \
+  /Users/apple/ApexText/.build/out/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_limits-49Y34VLWKAO9FHR413STCAVQP.pcm \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/cmark-gfm_config.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/cmark-gfm.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/export.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/cmark-gfm_version.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/chunk.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/cmark_ctype.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/utf8.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/render.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/node.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/cmark-gfm-extension_api.h \
+  /Users/apple/ApexText/.build/checkouts/swift-cmark/src/include/syntax_extension.h

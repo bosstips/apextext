@@ -1,0 +1,4 @@
+module ApexText {
+header "ApexText-Swift.h"
+export *
+}

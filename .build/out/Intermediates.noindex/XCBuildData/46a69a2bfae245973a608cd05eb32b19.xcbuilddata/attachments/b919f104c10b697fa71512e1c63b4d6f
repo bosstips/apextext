@@ -1,0 +1,71 @@
+{
+  "" : {
+    "const-values" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.swiftconstvalues",
+    "dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.d",
+    "diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary-emit-module.dia",
+    "pch" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ApexText-primary.swiftdeps"
+  },
+  "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/resource_bundle_accessor.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/App.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/App.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/EditorMode.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/EditorMode.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/EditorMode.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/EditorMode.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/FileSidebar.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FileSidebar.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FileSidebar.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FileSidebar.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/FontPreferences.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FontPreferences.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FontPreferences.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/FontPreferences.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownPreview.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownPreview.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownRenderer.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownRenderer.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownShortcuts.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownShortcuts.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/MarkdownTextView.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/MarkdownTextView.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/ReadingPosition.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ReadingPosition.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ReadingPosition.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/ReadingPosition.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/UserGuide.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/UserGuide.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/UserGuide.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/UserGuide.o"
+  },
+  "/Users/apple/ApexText/Sources/ApexText/WindowFileOpener.swift" : {
+    "index-unit-output-path" : "/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.o",
+    "llvm-bc" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.bc",
+    "object" : "/Users/apple/ApexText/.build/out/Intermediates.noindex/ApexText.build/Release/ApexText-p.build/Objects-normal/arm64/WindowFileOpener.o"
+  }
+}

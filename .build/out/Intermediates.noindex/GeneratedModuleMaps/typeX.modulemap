@@ -1,0 +1,4 @@
+module typeX {
+header "typeX-Swift.h"
+export *
+}
